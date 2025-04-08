@@ -1,4 +1,4 @@
 # GradeBoard
 # 🔹Dashboard Statistica sui Voti degli Studenti  
 - ✅ Un’interfaccia interattiva per analizzare i voti degli studenti in forma grafica.  
-- 🔧 Tecnologie: codeigniter + MySQL (MariaDB)
+- 🔧 Tecnologie: Laravel + MySQL (MariaDB)
